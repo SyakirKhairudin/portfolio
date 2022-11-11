@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Inria Sans';
-	src: url(/assets/fonts//s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM4zXX4.woff2) format('woff2');
+	src: url(../../assets/fonts//s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM4zXX4.woff2) format('woff2');
 	font-weight: 300;
 	font-style: italic;
 	font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: 'Inria Sans';
-	src: url(/assets/fonts//s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_qs4z.woff2) format('woff2');
+	src: url(../../assets/fonts//s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_qs4z.woff2) format('woff2');
 	font-weight: 300;
 	font-style: italic;
 	font-display: swap;
@@ -18,7 +18,7 @@
 
 @font-face {
 	font-family: 'Inria Sans';
-	src: url(/assets/fonts//s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1Of4KDNu.woff2) format('woff2');
+	src: url(../../assets/fonts//s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1Of4KDNu.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -27,7 +27,7 @@
 
 @font-face {
 	font-family: 'Inria Sans';
-	src: url(/assets/fonts//s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1On4KA.woff2) format('woff2');
+	src: url(../../assets/fonts//s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ1On4KA.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;

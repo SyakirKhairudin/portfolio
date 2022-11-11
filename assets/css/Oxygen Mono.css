@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Oxygen Mono';
-	src: url(/assets/fonts//s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjWx-6_Pg.woff2) format('woff2');
+	src: url(../../assets/fonts//s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjWx-6_Pg.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: 'Oxygen Mono';
-	src: url(/assets/fonts//s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2) format('woff2');
+	src: url(../../assets/fonts//s/oxygenmono/v13/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;

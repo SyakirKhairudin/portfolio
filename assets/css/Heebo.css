@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Heebo';
-	src: url(/assets/fonts//s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm_00.woff2) format('woff2');
+	src: url(../../assets/fonts//s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm_00.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: 'Heebo';
-	src: url(/assets/fonts//s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2) format('woff2');
+	src: url(../../assets/fonts//s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
