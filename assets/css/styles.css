@@ -1,0 +1,175 @@
+@media (max-width: 991px) {
+  a {
+    font-size: smaller;
+  }
+}
+
+@media (-width:768px) {
+  .col-md-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+}
+
+@media (min-width:992px) {
+  .col-lg-4 {
+    width: 33.33333333%;
+  }
+}
+
+@media (min-width:768px) and (max-width:1199px) {
+  .col-md-4 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}
+
+@media (min-width: 300px) {
+  #c1 {
+    width: 300px;
+  }
+}
+
+@media (min-width: 576px) {
+  #c1 {
+    width: 576px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #c1 {
+  }
+}
+
+@media (max-width: 575px) {
+  #c1 .mobile {
+    font-size: 1.5rem;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+@media (min-width: 300px) {
+  #c1 .row {
+  }
+}
+
+@media (max-width: 575px) {
+  #c1 icon {
+  }
+}
+
+@media (max-width: 575px) {
+  .fas.fa-heart {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .fab.fa-instagram {
+    font-size: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .fab.fa-linkedin {
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+  }
+}
+
+@media (min-width: 576px) {
+  .fas.fa-heart {
+    font-size: 50px;
+    padding-left: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-width: 5px;
+    border-color: var(--bs-indigo);
+    border-radius: 5px;
+  }
+}
+
+@media (min-width: 576px) {
+  .fab.fa-instagram {
+    font-size: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+@media (min-width: 576px) {
+  .fab.fa-linkedin {
+    font-size: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+@media (min-width: 576px) {
+  .fas.fa-check-circle {
+  }
+}
+
+@media (max-width: 575px) {
+  #c1 span {
+    font-size: 1.2rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 25px;
+    padding-bottom: 22px;
+  }
+}
+
+@media (max-width: 575px) {
+  #smm {
+    font-size: 1.8rem;
+  }
+}
+
+@media (min-width: 576px) {
+  #smm {
+    font-size: 2rem;
+  }
+}
+
+a {
+  color: var(--bs-white);
+}
+
+@media (min-width: 576px) {
+  #c1 span {
+    font-size: 1.7rem;
+  }
+}
+
+.card:hover .card-img {
+  transform: translate(0px) scale(1.10);
+  transition: all linear 2s;
+}
+
+.pfp {
+  max-width: 130px;
+  max-height: 130px;
+}
+
+.card {
+  overflow: hidden;
+}
+
