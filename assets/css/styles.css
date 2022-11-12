@@ -174,6 +174,34 @@ a {
 }
 
 .fas.fa-heart {
+  color: var(--bs-border-color-translucent);
+}
+
+@media (max-width: 575px) {
+  .fas.fa-bookmark {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 576px) {
+  .fas.fa-bookmark {
+    font-size: 50px;
+  }
+}
+
+.fas.fa-heart : active {
   color: #ec4a57;
+}
+
+.fas.fa-heart:hover {
+  color: #ec4a57;
+}
+
+.fas.fa-bookmark:hover {
+  color: #1f41a2;
+}
+
+.fas.fa-bookmark {
+  color: var(--bs-border-color-translucent);
 }
 
