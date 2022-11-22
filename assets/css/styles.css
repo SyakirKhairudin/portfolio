@@ -174,7 +174,7 @@ a {
 }
 
 .fas.fa-heart {
-  color: var(--bs-border-color-translucent);
+  color: #d2d2d2;
 }
 
 @media (max-width: 575px) {
@@ -195,6 +195,7 @@ a {
 
 .fas.fa-heart:hover {
   color: #ec4a57;
+  border-color: #ec4a57;
 }
 
 .fas.fa-bookmark:hover {
