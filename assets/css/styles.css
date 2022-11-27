@@ -103,26 +103,6 @@
 }
 
 @media (min-width: 576px) {
-  .fab.fa-instagram {
-    font-size: 50px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-  }
-}
-
-@media (min-width: 576px) {
-  .fab.fa-linkedin {
-    font-size: 50px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-  }
-}
-
-@media (min-width: 576px) {
   .fas.fa-check-circle {
   }
 }
