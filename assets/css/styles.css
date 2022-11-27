@@ -24,15 +24,15 @@
   }
 }
 
-@media (min-width: 300px) {
+@media (min-width: 300px) and (max-width: 575px) {
   #c1 {
-    width: 300px;
+    max-width: 335px;
   }
 }
 
 @media (min-width: 576px) {
   #c1 {
-    width: 576px;
+    max-width: 550px;
   }
 }
 
@@ -129,11 +129,11 @@
 
 @media (max-width: 575px) {
   #c1 span {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     margin-top: 0px;
     margin-bottom: 0px;
     padding-right: 25px;
-    padding-bottom: 22px;
+    padding-bottom: 0px;
   }
 }
 
