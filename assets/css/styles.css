@@ -206,3 +206,24 @@ a {
   color: var(--bs-border-color-translucent);
 }
 
+.socials:hover {
+  transform: translateY(-23px);
+}
+
+.socials {
+  transition: 0.6s;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.icons {
+  color: rgba(255,255,255,0.5);
+  transition: 0.6s;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.icons:hover {
+  color: rgba(255,255,255,0.8);
+}
+
