@@ -174,16 +174,13 @@ a {
 }
 
 .fas.fa-heart:hover {
-  color: #ec4a57;
-  border-color: #ec4a57;
 }
 
 .fas.fa-bookmark:hover {
-  color: #1f41a2;
 }
 
 .fas.fa-bookmark {
-  color: var(--bs-border-color-translucent);
+  color: #d2d2d2;
 }
 
 .socials:hover {
