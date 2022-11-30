@@ -3,7 +3,7 @@
   position: relative;
   text-align: left;
   font-size: 2.5rem;
-  font-family: 'Inria Sans';
+  font-family: 'Titillium Web';
 }
 
 .cd-words-wrapper b {
@@ -39,6 +39,7 @@
 
 .cd-headline b.is-visible {
   opacity: 1;
-  font-weight: 400;
+  font-weight: 900;
+  letter-spacing: 2px;
 }
 
